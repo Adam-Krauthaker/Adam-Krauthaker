@@ -4,7 +4,7 @@
 
 :book: Data Oriented Design
 
-:e-mail: adam.krauthaker1991@gmail.com
+:e-mail: adam.krauthaker1991@gmail.com, adam_krauthaker101@hotmail.com
 
 
 <!---
